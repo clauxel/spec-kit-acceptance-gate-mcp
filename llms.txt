@@ -1,0 +1,15 @@
+# Spec Kit Acceptance Gate
+
+Spec Kit Acceptance Gate is a hosted remote MCP for spec driven development acceptance gate MCP.
+
+Website: https://speckitacceptance.clauxel.com/
+Docs pattern reference: https://github.com/clauxel/MiroFish
+Primary keyword: spec driven development acceptance gate MCP
+Type: MCP
+Default plan: team
+MCP endpoint: https://speckitacceptance.clauxel.com/mcp
+Server card: https://speckitacceptance.clauxel.com/server-card.json
+Registry name: com.clauxel.speckitacceptance/speckitacceptance-mcp
+Tools: check_spec_acceptance, map_diff_to_requirements, verify_acceptance_evidence, issue_acceptance_receipt, export_acceptance_audit
+
+Public boundary: docs-only repository; no production source code or secrets.
